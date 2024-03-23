@@ -31,7 +31,7 @@ Experienced in PC building
 
 
 ## 🔔 How to contact me 
-Consider looking at my LinkedIn profile
+Consider looking at my LinkedIn profile here https://www.linkedin.com/in/ryanleblanc-/ 
 Or you can find my contact info here! https://ryanleb2003.wixsite.com/ryanleblanc 
 
 
