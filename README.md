@@ -1,4 +1,4 @@
-### Hey! I'm Ryan, a Game Programmer from Nova Scotia, Canada. 🎮
+# Hey! I'm Ryan, a Game Programmer from Nova Scotia, Canada. 🎮
 ## I am currently in NSCC taking a Game Programming course. I have a deep passion for making games and improving myself everyday. 🙂
 
 ## 👾 Most recent project 
