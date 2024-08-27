@@ -23,7 +23,8 @@ Bilingual (English and French)
 Experienced in PC building
 
 ## 💭 Fun facts about me
-- I play Hockey and Basketball 
+- I play Hockey and Basketball
+- I have around a 10 Handicap in Golf 
 - I am a huge gamer and also into PC building
 - I play the guitar, and a bit of drums
 - I am a huge Berserk fan, other mangas I enjoy are Vinland Saga, JJK, and Attack on Titan
