@@ -27,7 +27,7 @@ Experienced in PC building
 - I have around a 10 Handicap in Golf 
 - I am a huge gamer and also into PC building
 - I play the guitar, and a bit of drums
-- I am a huge Berserk fan, other mangas I enjoy are Vinland Saga, JJK, and Attack on Titan
+- I am a huge Berserk fan and Zelda nerd
 - I am also bilingual and fluent in both english and french
 
 
