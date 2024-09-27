@@ -15,11 +15,11 @@ I've been recently learning Godot so I am familiar with more than one Game Engin
 
 
 ## 💥 Skills
-C#,C++, GDScript, Python and Javascript experience
-Unity
-Godot
-HTML/CSS Experience
-Bilingual (English and French)
+C#,C++, GDScript, Python and Javascript experience,
+Unity,
+Godot,
+HTML/CSS Experience,
+Bilingual (English and French),
 Experienced in PC building
 
 ## 💭 Fun facts about me
