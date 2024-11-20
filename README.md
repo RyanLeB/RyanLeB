@@ -5,7 +5,8 @@
 The most recent project I've been working on is an indie game called Shrouded. It was done via a work term with Bitten Toast Games and is the project I'm definitely the most proud of!
 More info here: https://ryanleb2003.wixsite.com/ryanleblanc/shrouded 
 
-![image](https://github.com/user-attachments/assets/86224bfd-5840-424f-80f1-3d81bb92dab3)
+![image](https://github.com/user-attachments/assets/57c017d1-b604-444f-99c4-e9b810e98289)
+
 
 
   
