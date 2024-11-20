@@ -2,11 +2,11 @@
 ## I am currently in NSCC taking a Game Programming course. I have a deep passion for making games and improving myself everyday. 🙂
 
 ## 👾 Most recent project 
-The most recent project I worked on was a winner in the GGJ 2024
-It is a top-down shooter named troubleshoot and it won the Ubisoft Choice Award for most well-rounded and best executed game.
-Feel free to check out my portfolio for any other of my projects you want to see!
+The most recent project I've been working on is an indie game called Shrouded. It was done via a work term with Bitten Toast Games and is the project I'm definitely the most proud of!
+More info here: https://ryanleb2003.wixsite.com/ryanleblanc/shrouded 
 
-![image](https://github.com/RyanLeB/RyanLeB/assets/122310498/a24a6c4f-dad6-4763-a166-c24eb1ee5c90)
+![image](https://github.com/user-attachments/assets/86224bfd-5840-424f-80f1-3d81bb92dab3)
+
 
   
 ## 🧌 What I'm learning
