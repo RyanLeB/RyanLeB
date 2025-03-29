@@ -18,7 +18,8 @@ I've been recently learning Godot so I am familiar with more than one Game Engin
 ## 💥 Skills
 - C#,C++, GDScript, Python and Javascript experience
 - Unity
-- Godot,
+- Godot
+- Unreal Engine
 - HTML/CSS Experience,
 - Bilingual (English and French),
 - Experienced in PC building
