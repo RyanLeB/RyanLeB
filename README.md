@@ -1,4 +1,4 @@
-# Hey! I'm Ryan, a Game Programmer from Nova Scotia, Canada. 🎮
+# Hey! I'm Ryan, a Indie Game Dev from Nova Scotia, Canada. 🎮
 ## I love creating cool, meaningful game experiences. I am all about building fun, polished, and most importantly memorable gameplay.
 
 
